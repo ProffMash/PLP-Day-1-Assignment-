@@ -26,4 +26,3 @@ Question 8 : Explain the different types of testing (unit, integration, system, 
 
 2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-3. 
